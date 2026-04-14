@@ -89,13 +89,13 @@ dami-guessing-game/
 
 📝 Future Enhancements (Ideas)
 
-Sound effects for correct/incorrect guesses
-Timer visual progress bar
-Categories (Riddles, Movies, Science, etc.)
-Private rooms with game codes
-Leaderboard persistence
-Dark/Light mode toggle
+- Sound effects for correct/incorrect guesses
+- Timer visual progress bar
+- Categories (Riddles, Movies, Science, etc.)
+- Private rooms with game codes
+- Leaderboard persistence
+- Dark/Light mode toggle
 
 
-👨‍💻 Author
+👨‍💻 Author: 
 Damilola Ajele
