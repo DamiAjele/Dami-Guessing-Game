@@ -77,13 +77,14 @@ No points awarded if time runs out
 New players cannot join once the game has started
 Game Master rotates automatically after each round
 
-
+```bash
 🛠️ Project Structure
 dami-guessing-game/
 ├── index.html          # Single-page frontend
 ├── server.js           # Backend with Socket.io + auth
 ├── package.json
 └── README.md
+```
 
 
 📝 Future Enhancements (Ideas)
